@@ -4,7 +4,7 @@
 
 	dpkg -l | grep libopencv
 	        
-## 2. for x86/64 with OpenCV 4.x.x
+## 2. for x86_64 with OpenCV 4.x.x
 
 	cd opencv4
 	sudo ./install.sh
